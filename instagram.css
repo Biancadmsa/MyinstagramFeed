@@ -3,6 +3,7 @@ body{
     margin-top: 0;
 }
 
+
 .contenedor {
     display: flex;
     flex-direction: column;
@@ -19,20 +20,24 @@ body{
     justify-content: center;
 }
 
+
 h1{
     margin: 0 auto;
     width: 60%;
 }
+
 
 h2{
     float:left;
     margin:5px 1px;
 }
 
+
 h3{
     float: right;
     margin:5px 1px;
 }
+
 
 .post{
     background-color: white;
@@ -46,6 +51,7 @@ h4{
     margin-left: 1%;
     margin-bottom:1%; 
 }
+
 
 .imagen {
     width: 100%;
